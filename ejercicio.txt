@@ -1,0 +1,16 @@
+Ejercicio sacado de la pagina de instagram web.master.programacion 03/08/2024
+
+1.Probablemente conoces el sistema de "likes" en Facebook. Los usuarios pueden dar like a cualquier publicación.
+2.Implementa una función que tome un arreglo con los nombres de los usuarios que han dado "like" a una publicacion.
+3.Debes retornar un texto de acuerdo al caso como se muestra en el ejemplo:
+
+1.[]
+->No one likes this
+2.["Peter"]
+->"Peter like this"
+3.["Jacob", "Alex"]
+->"Jacob and Alex like this"
+4.["Max", "Jhon", "Mark"]
+->"Max, Jhon and Mark like this"
+5.["Alex", "Jacob", "Mark", "Max"]
+->"Alex, Jacob and 2 others like this"
