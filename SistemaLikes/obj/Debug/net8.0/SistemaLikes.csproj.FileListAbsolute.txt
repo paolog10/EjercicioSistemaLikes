@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\bin\Debug\net8.0\SistemaLikes.exe
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\bin\Debug\net8.0\SistemaLikes.deps.json
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\bin\Debug\net8.0\SistemaLikes.runtimeconfig.json
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\bin\Debug\net8.0\SistemaLikes.dll
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\bin\Debug\net8.0\SistemaLikes.pdb
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.sourcelink.json
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.dll
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\refint\SistemaLikes.dll
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.pdb
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\SistemaLikes.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PaoloGamarra\EjercicioSistemaLikes\SistemaLikes\obj\Debug\net8.0\ref\SistemaLikes.dll
