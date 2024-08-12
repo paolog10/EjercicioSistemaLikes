@@ -1,0 +1,7 @@
+# Ignorar carpetas de Visual Studio
+.vs/
+
+# Otros archivos o carpetas que quieras ignorar
+*.log
+node_modules/
+.DS_Store
