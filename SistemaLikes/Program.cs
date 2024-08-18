@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            string[] namesLike = new string[] {  };
+            //string[] namesLike = new string[] {  };
             //string[] namesLike = new string[] { "Peter" };
             //string[] namesLike = new string[] { "Jacob", "Alex" };
             //string[] namesLike = new string[] { "Max", "Jhon", "Mark" };
-            //string[] namesLike = new string[] { "Alex", "Jacob", "Mark", "Max" };
+            string[] namesLike = new string[] { "Alex", "Jacob", "Mark", "Max" };
 
             SistemaLike(namesLike);
             Console.ReadKey();
